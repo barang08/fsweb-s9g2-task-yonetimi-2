@@ -25,7 +25,7 @@ export const initialTasks = [
     description:
       "Hangi adımdan başlasak daha iyi olur? Yapılacakları doğru sıraya koymaya çalışmak da bize fikir verebilir.",
     people: ["emre"],
-    deadline: "2023-08-27",
+    deadline: "2024-08-27",
     status: "yapılacak",
   },
   {

@@ -53,7 +53,7 @@ function App() {
           </div>
         </div>
         <div className="column">
-          <h2 className="column-title">Tamamlananlar</h2>
+          <h2 className="column-title ">Tamamlananlar</h2>
           <div className="column-list">
             {tasks
               .filter((t) => t.status === "yapıldı")
